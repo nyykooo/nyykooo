@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ZG0wem5ocGZ0OXNqazQ2MDQ1Y25nNmdjaDEzaTB0OHpvcXR2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="Hello There">
-  <a href="https://github.com/oakoudad/badge42"><img style="height: 240px" src="https://badge.mediaplus.ma/greenbinary/ncampbel?1337Badge=off&UM6P=off" alt="ncampbel's 42 stats" /></a>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM2ZG0wem5ocGZ0OXNqazQ2MDQ1Y25nNmdjaDEzaTB0OHpvcXR2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="Hello There" style="width: 300px">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ncampbel?1337Badge=off&UM6P=off" alt="ncampbel's 42 stats" /></a>
   <h1 style="margin: 0; padding: 10px 0 0 0;">Hello there! I'm happy to find you this far</h1>
 </div>
 
