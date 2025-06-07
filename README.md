@@ -6,6 +6,10 @@
 
 ___________________
 
+I'm graduated in chemical engineering and now studying software engineering at 42 Lisbon. Happy to share with you a little bit of knowledge and a lot of code! Not everything I've contributed on is here (my work has private git)! If you have some question or contribution to make contact me or make a PR (42 projects won't accept PRs but I am always up to improve stuff)!!
+
+___________________
+
 
 <h3 align="center">Theese are some projects I've already completed:<br></h3>
 <h3 align="center">
@@ -19,9 +23,18 @@ ___________________
   <a href="https://github.com/nyykooo/Minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
   <a href="https://github.com/nyykooo/Philosophers"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png"></img>
   <a href="https://github.com/nyykooo/Cub3D"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3dm.png"></img>
+  <a href="https://github.com/nyykooo/cpp0_4"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png"></img></h3>
+
+<h3 align="center">And here are the ones I am currently working on: <br></h3>
+<h3 align="center">
+  <a href="https://github.com/nyykooo/Webserv"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/webserve.png"></img>
+  <a href="https://github.com/nyykooo/"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/inceptione.png"></img>
   <a href="https://github.com/nyykooo/cpp5_9"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png"></img></h3>
+  
 
+<h6 align="center">Star projects were done with bonus part!<br></h6>
 
+    
   ___________________
 
   
