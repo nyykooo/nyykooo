@@ -50,7 +50,7 @@ ___________________
     <a href="https://github.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
     <a href="https://vuejs.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
     <a href="https://react.dev//"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
-    <a href="https://typescript.dev//"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ts-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
     <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" alt="VSCode" width="40" height="40"/></a>
   </div>
   <div  align="center">
