@@ -11,7 +11,7 @@ I'm graduated in chemical engineering and now studying software engineering at 4
 ___________________
 
 
-<h3 align="center">Theese are some projects I've already completed:<br></h3>
+<h3 align="center">42 common core completed:<br></h3>
 <h3 align="center">
   <a href="https://github.com/nyykooo/libft"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img>
   <a href="https://github.com/nyykooo/ft_printf"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img>
@@ -31,6 +31,7 @@ ___________________
 
 <h3 align="center">And here are the ones I am currently working on: <br></h3>
 <h3 align="center">
+  <a href="https://github.com/nyykooo/Scop">Scop
   
 
 <h6 align="center">Star projects were done with bonus part!<br></h6>
