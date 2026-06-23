@@ -23,13 +23,13 @@ ___________________
   <a href="https://github.com/nyykooo/Minishell"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishelle.png"></img>
   <a href="https://github.com/nyykooo/Philosophers"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png"></img>
   <a href="https://github.com/nyykooo/Cub3D"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cub3dm.png"></img>
-  <a href="https://github.com/nyykooo/cpp0_4"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png"></img></h3>
+  <a href="https://github.com/nyykooo/cpp0_4"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png"></img></h3>
+  <a href="https://github.com/nyykooo/Webserv"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/webservm.png"></img>
+  <a href="https://github.com/nyykooo/"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/inceptione.png"></img>
+  <a href="https://github.com/nyykooo/cpp5_9"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppm.png"></img></h3>
 
 <h3 align="center">And here are the ones I am currently working on: <br></h3>
 <h3 align="center">
-  <a href="https://github.com/nyykooo/Webserv"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/webserve.png"></img>
-  <a href="https://github.com/nyykooo/"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/inceptione.png"></img>
-  <a href="https://github.com/nyykooo/cpp5_9"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/cppe.png"></img></h3>
   
 
 <h6 align="center">Star projects were done with bonus part!<br></h6>
