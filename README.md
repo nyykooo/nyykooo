@@ -45,6 +45,7 @@ ___________________
     <a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/></a> 
     <a href="https://www.w3schools.com/c/c_intro.php/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="C" width="40" height="40"/></a>
     <a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" alt="C++" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/cs/cs_intro.asp"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg" alt="C#" width="40" height="40"/></a>
     <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" alt="Git" width="40" height="40"/></a>
     <a href="https://github.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg" alt="GitHub" width="40" height="40"/></a>
     <a href="https://vuejs.org/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Ubuntu" width="40" height="40"/></a>
